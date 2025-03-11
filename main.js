@@ -4,7 +4,7 @@ const { join } = require('path');
 
 // Path to the Chromium executable
 const chromiumPath = join(__dirname, 'node_modules', 'puppeteer', 'lib', 'vendor', 'chromium', 'chromium');
-
+ 
 const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
