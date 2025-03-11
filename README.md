@@ -48,7 +48,7 @@ This Node.js-based WhatsApp bot is designed to enhance communication in WhatsApp
  node main.js
 ```
 
-## Future Enhancements
+## Future Enhancements                                  
 
 More features will be added soon! Stay tuned for updates to improve it further
 
