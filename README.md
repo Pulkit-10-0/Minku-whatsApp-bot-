@@ -11,7 +11,7 @@ This Node.js-based WhatsApp bot is designed to enhance communication in WhatsApp
 - **Tag Everyone**: Easily tag all group members to grab their attention.
 - **Selective Responses**: Respond to specific messages to keep conversations organized.
 - **Changing group settings**: Allows only admins to change the group settings
-
+      
 ## Technology Stack
 
 - **Node.js**: The primary technology used for building the bot.
